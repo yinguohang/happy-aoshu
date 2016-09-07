@@ -1,6 +1,6 @@
 Learn aoshu the hard way——Effective Aushu
 ------------------------
-Head First Aushu
+Head First Aushu  
 1. 力，干，及，田，（）  
 A.风 B.林 C.火 D.山  
 答案：A；所有的字都有交叉结构
